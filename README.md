@@ -1,7 +1,8 @@
 # Activity Logs for GEOM 99
 
-Click the links below to go to that items activity log. 
+Click [here](https://github.com/ZacharyMasson/ActivityLogs_99/blob/main/WEEK7_8.md) to go to the total time spreadsheet. 
 
+Click the links below to go to that weeks activity log. 
 
 1. [Week 7/8](https://github.com/ZacharyMasson/ActivityLogs_99/blob/main/WEEK7_8.md)
 2. [Week 9](https://github.com/ZacharyMasson/ActivityLogs_99/blob/main/WEEK9.md)
