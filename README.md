@@ -3,7 +3,7 @@
 Click the links below to go to that items activity log. 
 
 
-1. Week 7/8
+1. [Week 7/8](https://github.com/ZacharyMasson/ActivityLogs_99/blob/main/WEEK7_8.md)
     1. Create and use Technical Activity Log
     2. Start EC2 Server
     3. Read and Play: Server Services and your EC2
