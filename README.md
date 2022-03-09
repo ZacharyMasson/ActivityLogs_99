@@ -4,10 +4,11 @@ Click the links below to go to that items activity log.
 
 
 1. Week 7/8
-    1. A corollary to the above item.
-    2. Yet another point to consider.
+    1. Create and use Technical Activity Log
+    2. Start EC2 Server
+    3. Read and Play: Server Services and your EC2
+    4. Publish Canada.shp to your AWS EC2
+    5. Create DucksDns
+    6. Managing Portal from ArcGIS Pro
 2. Week 9
-    * A corollary that does not need to be ordered.
-        * This is indented eight spaces, because it's four spaces further than the item above.
-        * You might want to consider making a new list.
 3. Week 10
