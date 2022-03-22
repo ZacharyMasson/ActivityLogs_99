@@ -17,13 +17,3 @@ In the Experience Builder add the saved web map as the source.
 ![image](https://user-images.githubusercontent.com/91274079/159585545-abd30d37-bee1-4caf-b7e1-084a04ff4198.png)
 
 
-
-
-## Geoserver
-
-
-
-## Kobo
-
-
-## Leaflet or Openstreetmaps
