@@ -62,6 +62,20 @@ Now use duckdns
 * New layer (WFS) in QGIS. get the url to the server. 
 * ![image](https://user-images.githubusercontent.com/91274079/159710098-429167d4-cd7b-4d0a-87ad-49bd70410772.png)
 
+# Geoserver: Beaunmont SHP files
+* for the purposes of just exploring I am going to convert the layers from BEaumonts rest/services to shapefiles.
+* This will NOT be done in the final solution/ collab proj 
+* Open layers in map in AGOL, save it, open it in ArcGIS Pro then run this model (created single folder with all the .shp's)
+* ![image](https://user-images.githubusercontent.com/91274079/159710711-d98519b9-4a6c-4841-9bc9-442581ca02c8.png)
+* followed exact methods as above to 1) create a new workspace Beaumont, 2) create a new store TreeInv (directory of shapefiles), 3) publish
+* There is a difference between PRO and Q... 
+* Pro mis missing more than half of the trees (n = 3000, so maybe a limit was reached?), whils QGIS has the correct number (n = 7987). 
+* ![image](https://user-images.githubusercontent.com/91274079/159711516-455f5139-897b-4ee8-8fce-fba11c055e6d.png)
+* ![image](https://user-images.githubusercontent.com/91274079/159711532-b6ed72d4-aaab-49d4-8adb-ec87c22ac573.png)
+
+## NEXT STEPS
+* Bring these shps or bring in data another way (postgis)into leaflet and then make a map. 
+* Q for meeting: does my geoserver have to be running in order for Shawn to mark it?
 
 
 
