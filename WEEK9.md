@@ -21,4 +21,6 @@ In the Experience Builder add the saved web map as the source.
 * ![image](https://user-images.githubusercontent.com/91274079/159585538-ad191c3d-f957-4365-93c1-49c7e58d47f7.png)
 * ![image](https://user-images.githubusercontent.com/91274079/159585545-abd30d37-bee1-4caf-b7e1-084a04ff4198.png)
 
-
+* good candidate for the final solution, intuitive, seems like dashboard but there is more available
+* PROS: will easily able to make the cartography nice, easy to add charts and other viisuial aids. 
+* Look into adding more functionality (make popups better, research example of a configured expereince builder)
