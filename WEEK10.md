@@ -1,7 +1,7 @@
 # Week 10 Activity Log
 
-## Geoserver: install
-* followed videos for installation 
+## Geoserver: Install
+* Followed videos for installation 
 * Using Tomcat
 * ![image](https://user-images.githubusercontent.com/91274079/159707131-7a6a05eb-11cd-441c-8dd8-69d7f440f721.png)
 * ![image](https://user-images.githubusercontent.com/91274079/159707153-4f74c87d-6547-4a50-92a3-6f9576e36dfe.png)
@@ -25,8 +25,8 @@ Now this should work.
 ![image](https://user-images.githubusercontent.com/91274079/159707807-39f814a9-3794-4e9b-b63b-4b0f983ca486.png)
 
 Now use duckdns
-* install application request routing https://www.iis.net/downloads/microsoft/application-request-routing
-* windows search -> Turn windows features on or off -> Tick IIS sercived checkbox. 
+* Install application request routing https://www.iis.net/downloads/microsoft/application-request-routing
+* Windows search -> Turn windows features on or off -> Tick IIS sercived checkbox. 
 * ![image](https://user-images.githubusercontent.com/91274079/159708258-745dcbb0-ca3a-4b22-8682-486b9df787da.png)
 * Enable proxy
 * ![image](https://user-images.githubusercontent.com/91274079/159708422-40c192dd-9d0d-4d95-9897-6409ddabd119.png)
@@ -49,7 +49,7 @@ Now use duckdns
 * In shawns video he has https in proxy base url. It might just be http
 * It worked! 
 
-## add data to Geoserver
+## Add data to Geoserver
 * Copy and paste the canada shapefile from geom 99 lab demos to …/data/data
 * Go to workspaces in geoserver
 * ![image](https://user-images.githubusercontent.com/91274079/159709740-4c780fe1-c5ef-4e2e-bdca-e1432c378002.png)
@@ -63,11 +63,11 @@ Now use duckdns
 * ![image](https://user-images.githubusercontent.com/91274079/159710098-429167d4-cd7b-4d0a-87ad-49bd70410772.png)
 
 # Geoserver: Beaunmont SHP files
-* for the purposes of just exploring I am going to convert the layers from BEaumonts rest/services to shapefiles.
+* For the purposes of just exploring I am going to convert the layers from BEaumonts rest/services to shapefiles.
 * This will NOT be done in the final solution/ collab proj 
 * Open layers in map in AGOL, save it, open it in ArcGIS Pro then run this model (created single folder with all the .shp's)
 * ![image](https://user-images.githubusercontent.com/91274079/159710711-d98519b9-4a6c-4841-9bc9-442581ca02c8.png)
-* followed exact methods as above to 1) create a new workspace Beaumont, 2) create a new store TreeInv (directory of shapefiles), 3) publish
+* Followed exact methods as above to 1) create a new workspace Beaumont, 2) create a new store TreeInv (directory of shapefiles), 3) publish
 * There is a difference between PRO and Q... 
 * Pro mis missing more than half of the trees (n = 3000, so maybe a limit was reached?), whils QGIS has the correct number (n = 7987). 
 * ![image](https://user-images.githubusercontent.com/91274079/159711516-455f5139-897b-4ee8-8fce-fba11c055e6d.png)
