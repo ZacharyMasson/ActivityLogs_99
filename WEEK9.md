@@ -9,7 +9,9 @@
 * ![image](https://user-images.githubusercontent.com/91274079/159585390-e060251d-5464-4979-9b0c-6a372697a87f.png)
 In the Experience Builder add the saved web map as the source. 
 * (if you change symbology before you publish you have to go back to the web  map and change symbology there, then reconnect the source to the map frame in experience builder)
+* How to style a chart within a widget. This is extremely intuitive. 
 * ![image](https://user-images.githubusercontent.com/91274079/159585491-38cc5fde-3021-45f4-9a63-a68db0271c9e.png)
+* How to style a legend within a widget. 
 * ![image](https://user-images.githubusercontent.com/91274079/159585499-3e6941d1-e841-43b2-b15b-88fe5eeacf0d.png)
 * ![image](https://user-images.githubusercontent.com/91274079/159585511-1a5c772b-85ad-499a-b65d-b371808bd5ab.png)
 * ![image](https://user-images.githubusercontent.com/91274079/159585529-5170e4a6-34d6-43d2-8490-602a8507ebdd.png)
