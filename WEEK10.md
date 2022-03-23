@@ -33,6 +33,41 @@ Now use duckdns
 * URL rewrite
 * ![image](https://user-images.githubusercontent.com/91274079/159708499-e1bcafec-1085-4de5-a124-5c83ebd1b44d.png)
 * ![image](https://user-images.githubusercontent.com/91274079/159708522-62b83b06-aa29-465a-ab6d-d5d10aaaca6f.png)
+* While liost proxy in the xml doc under web inf. 
+* ![image](https://user-images.githubusercontent.com/91274079/159708963-9a90520a-b069-4e2c-81da-cbb0f6a287f6.png)
+* ![image](https://user-images.githubusercontent.com/91274079/159709043-6c3f745e-5745-48cd-b090-e4dc0b958a5b.png)
+
+#Running into problems...
+* Checked IIS authentication and url rewrite (tested and worked)
+* Security
+* File priv for geoserver (is this required)
+* When it worked I had not done the create new user 
+* Removed url rewrite rule, removed proxy base url
+* Local works 
+* Duckdns works to login then after log in goes to local 
+* Redo rewrite rule…. Tested and it works. 
+* In shawns video he has https in proxy base url. It might just be http
+* It worked! 
+
+## add data to Geoserver
+* Copy and paste the canada shapefile from geom 99 lab demos to …/data/data
+* Go to workspaces in geoserver
+* ![image](https://user-images.githubusercontent.com/91274079/159709740-4c780fe1-c5ef-4e2e-bdca-e1432c378002.png)
+* Have workspace now need to connect to data store (allowing multiple shp)
+* ![image](https://user-images.githubusercontent.com/91274079/159709796-9af2d805-d76f-4a47-be5d-cf4d269b47a6.png)
+* ![image](https://user-images.githubusercontent.com/91274079/159709864-ac708d75-1f30-4d55-94f8-457517bb507c.png)
+* Publish the single shp layer
+* Make sure to define extent! native and lat/long bounding box
+* ![image](https://user-images.githubusercontent.com/91274079/159709922-e91fe5a7-07bf-4813-bcac-5124b8295222.png)
+* New layer (WFS) in QGIS. get the url to the server. 
+* ![image](https://user-images.githubusercontent.com/91274079/159710098-429167d4-cd7b-4d0a-87ad-49bd70410772.png)
+
+
+
+
+
+
+
 
 
 
