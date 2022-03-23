@@ -14,7 +14,10 @@ In the Experience Builder add the saved web map as the source.
 * ![image](https://user-images.githubusercontent.com/91274079/159585499-3e6941d1-e841-43b2-b15b-88fe5eeacf0d.png)
 * How to style and make a legend
 * ![image](https://user-images.githubusercontent.com/91274079/159585511-1a5c772b-85ad-499a-b65d-b371808bd5ab.png)
+* Simple tree inventory built in experience builder
 * ![image](https://user-images.githubusercontent.com/91274079/159585529-5170e4a6-34d6-43d2-8490-602a8507ebdd.png)
+* Zoomed in on tree feature
+* TO DO: edit the pop ups for both Tree Inventory Zone and Trees. 
 * ![image](https://user-images.githubusercontent.com/91274079/159585538-ad191c3d-f957-4365-93c1-49c7e58d47f7.png)
 * ![image](https://user-images.githubusercontent.com/91274079/159585545-abd30d37-bee1-4caf-b7e1-084a04ff4198.png)
 
