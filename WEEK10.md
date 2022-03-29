@@ -73,9 +73,35 @@ Now use duckdns
 * ![image](https://user-images.githubusercontent.com/91274079/159711516-455f5139-897b-4ee8-8fce-fba11c055e6d.png)
 * ![image](https://user-images.githubusercontent.com/91274079/159711532-b6ed72d4-aaab-49d4-8adb-ec87c22ac573.png)
 
-## NEXT STEPS
-* Bring these shps or bring in data another way (postgis)into leaflet and then make a map. 
-* Q for meeting: does my geoserver have to be running in order for Shawn to mark it?
+## Back to Experience Builder (updated data and layout)
+* Re did the web mamp using the corrected data that my group made. (follow old guide from week 9)
+* Now need to re do the experience builder (adding better charts, popups, overall improvements)
+* I want to get a field with the number of trees in each zone. Need to use Summarize within but this can only be done either in PRO or the classic map viewer in AGOL (consumes credits)
+* Added layer to Pro and did Summarize Within to get a field with the number of trees/ zone. Then published as feature layer to our created group.
+
+# new layout
+* ![image](https://user-images.githubusercontent.com/91274079/160675931-2520c586-c9c9-4555-aa91-2eb64d53b7b7.png)
+* ![image](https://user-images.githubusercontent.com/91274079/160675975-a3b8615d-3a64-41aa-83d3-ddafc56da3bc.png)
+* Note the widgets on top left and the table on the bottom. 
+# New Chart
+* ![image](https://user-images.githubusercontent.com/91274079/160676071-495a035f-f56e-4cb6-9fc7-b3ebc7b92f67.png)
+# Survey 123 (added simple feedback survey)
+* ![image](https://user-images.githubusercontent.com/91274079/160676171-88e804d5-2391-4172-bc56-6d76f267b6ae.png)
+# New popups
+* ![image](https://user-images.githubusercontent.com/91274079/160676248-8a5bb9a1-91f1-45a8-a34d-d84afa551ca3.png)
+* ![image](https://user-images.githubusercontent.com/91274079/160676267-861c5547-a239-4267-8bb2-21849621270c.png)
+* ![image](https://user-images.githubusercontent.com/91274079/160676276-088e0dbc-0194-43ed-b258-5bc6c3f50750.png)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
