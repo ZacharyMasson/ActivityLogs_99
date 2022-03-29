@@ -7,6 +7,6 @@
 * ![image](https://user-images.githubusercontent.com/91274079/160676706-35652b71-e5ec-466c-9804-dc22f9286d1a.png)
 * ![image](https://user-images.githubusercontent.com/91274079/160676724-9b2893ab-8fc9-4d1c-a1a1-ba90e1fb1461.png)
 * No information on the slideshow ( I need to add more text) 
+* ![image](https://user-images.githubusercontent.com/91274079/160676956-85e503ac-4ab4-4911-98f2-2d2f3227249d.png)
 * Reference Edmonton and Beaumonts Canopy cover and compare
-* 
 
