@@ -37,8 +37,7 @@ Following the guide in combination with the video, and keeping in mind to run th
  * 	new query: allow the user to select any of the species in the tree inventory to then see the number of trees that fit their criteria (SQL v 		easy)
  * 	Height and DBH is ATLEAST
  * 	Spatial Filter: extent or drawn
- * 	Text: linked to results of query
- * 		need to make pretty
+ * 	Text: linked to results of query (need to make nicer)
  * 	Chart: linked to query and uniquely symbolize 
  * ![image](https://user-images.githubusercontent.com/91274079/163196752-662da2a5-270d-4f81-be56-d93303493ee5.png)
  * ![image](https://user-images.githubusercontent.com/91274079/163196778-57c3530e-1bc6-4e42-bb0d-2ea333df6caf.png)
