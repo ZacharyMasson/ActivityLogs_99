@@ -30,53 +30,37 @@ Following the guide in combination with the video, and keeping in mind to run th
 * Survey request 
 * Rework experience builder to have combo of our solutions
 
-New Version with small guides
-	1) Keeping same prompt for "welcome to beaumont…"
-	- This is likely where we can connect to victors work/ general info on the urban forestry management strategy  (TBD)
-	- Intro to the application (TBD)
-	2) Main page (Tree Inventory)
-		a. This now uses the…
-			i. New base data from our client
-			ii. New tree inventory 
-			iii. Calculated canopy 
-		b. New query
-			i. Allows the user to select any of the species in the tree inventory to then see the number of trees that fit their criteria (SQL, very simple)
-				1) Height is at least…
-				2) DBH is at least…
-		c. Spatial filter
-				1) Based on map extent
-				2) Based on drawn graphic
-		d. Text
-				1) Linked to the results of the query
-		e. Chart
-				1) Linked to the results of the query and uniquely symbolize each species.
-		 
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		3) Neighborhood/ Park View
-			i. New Lists linked to parks and neighborhoods in view. 
-			ii. Interctive text linked to the data to calculate canopy for the neighborhood in view. 
-				1) it seems like getting the area of the current extent as a VALUE as opposed to something that just influences selection is more of a developers thing
-		
-		
-		
-		4) Survey
-			i. Created basic survey123 (connected to the map frame to get the tree ID)
-			ii. Need to make it so it gets location as well (but since they have asset ID, maybe not nescessary)
-			iii. Ability to add an image 
-			iv. Should configure the "what is the concern" to be the actual fields in the tree inventory (suckering, vandalism etc…)
-			v. 
-![image](https://user-images.githubusercontent.com/91274079/163195832-98d9707e-9568-46c8-b4f1-c626b2e0ec3c.png)
+### new version with guide:
+ * Keeping prompt for "welcome to beaumont" - TO DO will link to victors scene viewer?, get info graphic on UFMS, write intro to applicaiton
+### Main page
+ * 	Now uses base data, new inventory, calculated canopy
+ * 	new query: allow the user to select any of the species in the tree inventory to then see the number of trees that fit their criteria (SQL v 		easy)
+ * 	Height and DBH is ATLEAST
+ * 	Spatial Filter: extent or drawn
+ * 	Text: linked to results of query
+ * 		need to make pretty
+ * 	Chart: linked to query and uniquely symbolize 
+ * ![image](https://user-images.githubusercontent.com/91274079/163196752-662da2a5-270d-4f81-be56-d93303493ee5.png)
+ * ![image](https://user-images.githubusercontent.com/91274079/163196778-57c3530e-1bc6-4e42-bb0d-2ea333df6caf.png)
+ * ![image](https://user-images.githubusercontent.com/91274079/163196801-909bbf3e-dd37-4626-af24-f0d6984bf2c7.png)
+ * ![image](https://user-images.githubusercontent.com/91274079/163196814-5d40babe-9717-46cb-ad1a-50710d75ea2f.png)
+
+ ### Neighborhood view
+ * New Lists linked to parks and neighborhoods in view.
+ * Interctive text linked to the data to calculate canopy for the neighborhood in view. 
+ * it seems like getting the area of the current extent as a VALUE as opposed to something that just influences selection is more of a developers thing
+ * ![image](https://user-images.githubusercontent.com/91274079/163197054-c5bfb2c6-fa10-4a09-909f-e748a6ca25a9.png)
+ * ![image](https://user-images.githubusercontent.com/91274079/163197064-d1fb5bc4-5275-4f77-9341-5f4e148a1e30.png)
+
+### Survey 123
+* Created a basic survey 123
+* needs to get location and tree id
+* ability to add image
+* TO DO: add conditions to be more like the fields in the actual tree inventory
+* ![image](https://user-images.githubusercontent.com/91274079/163197243-b6067fda-7bf6-4407-b9aa-5b903fc0e2ad.png)
+
+
+
 
 
 
