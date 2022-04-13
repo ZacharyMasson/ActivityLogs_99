@@ -2,8 +2,8 @@
 * started experience builder for dev in week 12 (having it here to keep it together)
 
 ## Experience builder for developers
-* Follow https://developers.arcgis.com/experience-builder/guide/install-guide/ for general guide on how to install. ![image](https://user-images.githubusercontent.com/91274079/163194690-4225a9cb-8c46-4737-9af5-385049fbb8bf.png)
-* Installation of ArcGIS Experience Builder ![image](https://user-images.githubusercontent.com/91274079/163194760-1de60c36-44c2-45c6-af07-168f7a754d28.png) 
+* Follow https://developers.arcgis.com/experience-builder/guide/install-guide/ for general guide on how to install.
+* Installation of ArcGIS Experience Builder https://www.youtube.com/watch?v=BcJxNaKuTxg&ab_channel=ExperienceBuilder
 * This video does  decent job, but does not make the npm install clear. 
 Following the guide in combination with the video, and keeping in mind to run the node.js command prompt and not the default system one, should be clear enough.
 * ![image](https://user-images.githubusercontent.com/91274079/163194861-1029b2fa-d468-42ef-afad-6ca91432269b.png)
@@ -18,7 +18,9 @@ Following the guide in combination with the video, and keeping in mind to run th
 		○ See the new experience builder log, but "…it seems like getting the area of the current extent as a VALUE as opposed to something that just influences selection is more of a developers thing" (Me, 2022)
 	- Saved as a template and then published
 		○ Opened this template in localhost and got this…
-![image](https://user-images.githubusercontent.com/91274079/163195184-3a2175c2-5ba2-4034-8488-3cf492e77f50.png)
+
+![image](https://user-images.githubusercontent.com/91274079/163195392-6d5a3f62-4146-481c-933d-2fd2bd745b1c.png)
+
 
 
 
